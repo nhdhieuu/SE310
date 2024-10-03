@@ -1,0 +1,9 @@
+D:\UIT\C#\SE310\BT3\bin\Debug\BT3.exe.config
+D:\UIT\C#\SE310\BT3\bin\Debug\BT3.exe
+D:\UIT\C#\SE310\BT3\bin\Debug\BT3.pdb
+D:\UIT\C#\SE310\BT3\obj\Debug\BT3.csproj.AssemblyReference.cache
+D:\UIT\C#\SE310\BT3\obj\Debug\BT3.Properties.Resources.resources
+D:\UIT\C#\SE310\BT3\obj\Debug\BT3.csproj.GenerateResource.cache
+D:\UIT\C#\SE310\BT3\obj\Debug\BT3.csproj.CoreCompileInputs.cache
+D:\UIT\C#\SE310\BT3\obj\Debug\BT3.exe
+D:\UIT\C#\SE310\BT3\obj\Debug\BT3.pdb
