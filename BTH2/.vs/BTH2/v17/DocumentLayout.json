@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "Views\\Shared\\_LayoutOgani.cshtml",
               "ToolTip": "D:\\UIT\\C#\\SE310\\BTH2\\Views\\Shared\\_LayoutOgani.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LayoutOgani.cshtml",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAIwHwAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-27T04:54:24.193Z",
               "EditorCaption": ""
@@ -118,7 +118,7 @@
               "RelativeDocumentMoniker": "Models\\Authentication\\Authentication.cs",
               "ToolTip": "D:\\UIT\\C#\\SE310\\BTH2\\Models\\Authentication\\Authentication.cs",
               "RelativeToolTip": "Models\\Authentication\\Authentication.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T04:46:01.403Z",
               "EditorCaption": ""
@@ -131,7 +131,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\UIT\\C#\\SE310\\BTH2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwCEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T04:18:47.621Z",
               "EditorCaption": ""
@@ -144,7 +144,7 @@
               "RelativeDocumentMoniker": "Views\\Access\\Login.cshtml",
               "ToolTip": "D:\\UIT\\C#\\SE310\\BTH2\\Views\\Access\\Login.cshtml",
               "RelativeToolTip": "Views\\Access\\Login.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwCsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-27T04:17:49.91Z",
               "EditorCaption": ""
@@ -248,7 +248,7 @@
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\SuaSanPhamMoi.cshtml",
               "ToolTip": "D:\\UIT\\C#\\SE310\\BTH2\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPhamMoi.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\SuaSanPhamMoi.cshtml",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAIBJwAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-26T09:14:40.74Z",
               "EditorCaption": ""
@@ -276,7 +276,8 @@
               "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T08:58:10.088Z"
+              "WhenOpened": "2024-10-26T08:58:10.088Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
